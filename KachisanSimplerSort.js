@@ -32,10 +32,6 @@ const songs = [
    "환상행진"
 ];
 
-let comparisons = [];
-let i = 0, j = 1;
-let totalComparisons = 0;
-let currentComparison = 0;
 
 function shuffleArray(array) {
     // Fisher-Yates 알고리즘을 사용한 배열 섞기
